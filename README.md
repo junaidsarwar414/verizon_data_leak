@@ -1,6 +1,9 @@
 # VALIDATED Verizon Media Data Leak - PII & PHI
 # Verizon insists this is not a vulnerability, yet the CDN the content is being served from has No SSL cert
 # The endpoints leak PII, PHI, Tax information, personal medical data and so much more. 
+# This leaking data is coming from Yahoo Business Servers - This is CUSTOMER DATA VALIDATED by VERIZON
+# Yahoo Small Business Privacy Policy States That This Data Is Secured! - 
+> https://smallbusiness.yahoo.com/privacy-policy?_anyid=147f1ed4-f463-4e66-9bf8-4ba87b5958ca
 ### Author: Jonathan Scott Villarreal  @jonathandata1
 ![Validated Verizon Media DATA LEAK](https://i.postimg.cc/dtvvGvDF/Untitled-design-Max-Quality-66.jpg)
 
