@@ -1,6 +1,24 @@
 # VALIDATED Verizon Media Data Leak - PII & PHI
 # Verizon insists this is not a vulnerability, yet the CDN the content is being served from has No SSL cert
 # The endpoints leak PII, PHI, Tax information, personal medical data and so much more. 
+#
+# UPDATE!!!!! BUGCROWD CONFIRMS VERIZON DATA LEAK!!!!! 
+#
+# I WAS JUST RECENTLY BANNED FROM BUGCROWD WHEN I HAVE NOT HACKED ON THEIR PLATFORM FOR ALMOST A YEAR, 
+# BUG CROWD SAID THAT I LEAKED PII AND SENSATIVE INFORMATION AND EVEN THOUGH I DID NOT DO ANYTHING ON THEIR PLATFORM THEY BANNED ME EITHER WAY. 
+
+# WHAT IS INTERESTING IS THAT THEY SAY I LEAKED PII AND SENSATIVE INFORMATION
+# If there was no vulnerability, why would I be banned?
+#
+# CWE-200 Exposure of sensitive information to an unauthorized actor
+# CWE-359 Exposure of private Personal Information to an Unauthorized Actor
+# CWE-213 Exposure of sensitive information due to incompatible polices
+#
+#
+# So what is really going on here?!!!! Why am I being banned in this community, and being validated at the same time? 
+# Why is bugcrowd acknowledging PII and sensative information, but yet knows my report was only informational!
+# 
+#
 # This leaking data is coming from Yahoo Business Servers - This is CUSTOMER DATA VALIDATED by VERIZON
 # Yahoo Small Business Privacy Policy States That This Data Is Secured! - 
 > https://smallbusiness.yahoo.com/privacy-policy?_anyid=147f1ed4-f463-4e66-9bf8-4ba87b5958ca
